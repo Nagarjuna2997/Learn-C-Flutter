@@ -15,7 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  salomon_bottom_bar: 
+  salomon_bottom_bar: #add updated dependeices here
   webview_flutter: 
   google_fonts: 
   url_launcher: 
