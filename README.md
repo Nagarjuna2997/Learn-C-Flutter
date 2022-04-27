@@ -3,13 +3,7 @@
 # Screenshots
 
 <table>
-  <tr>
-    <td>Home Screen</td>
-     <td>Learn C</td>
-     <td>Topics</td>
-    <td>Watch Videos</td>
-    <td>Interview Questions</td>
-  </tr>
+  
   <tr>
     <td><img src="https://user-images.githubusercontent.com/104526691/165620742-967249d2-b223-45c6-ada4-3f5a3d275c30.jpeg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/104526691/165620755-10a74d62-72ed-4dae-a8bc-e7466f167d69.jpeg" width=270 height=480></td>
