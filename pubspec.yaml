@@ -15,11 +15,11 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  salomon_bottom_bar: ^3.2.0
-  webview_flutter: ^3.0.1
-  google_fonts: ^2.3.1
-  url_launcher: ^6.0.20
-  day_night_switcher: ^0.2.0+1
+  salomon_bottom_bar: 
+  webview_flutter: 
+  google_fonts: 
+  url_launcher: 
+  day_night_switcher: 
   
   
   
