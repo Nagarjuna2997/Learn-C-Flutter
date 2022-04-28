@@ -7,6 +7,8 @@ https://drive.google.com/file/d/1NheyKwoZGWWah8zTDZ3GOLSzk7FvxRSI/view?usp=drive
 ## Watch Youtube Video
 https://youtu.be/Xs3A_wXafy4
 
+## Playstore Link Soon
+
 # Screenshots
 <table>
     <td><img src="https://user-images.githubusercontent.com/104526691/165620742-967249d2-b223-45c6-ada4-3f5a3d275c30.jpeg" width=270 height=480></td>
