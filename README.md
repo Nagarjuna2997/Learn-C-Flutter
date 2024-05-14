@@ -4,8 +4,8 @@
 ## Download Apk From Here
 https://drive.google.com/file/d/1NheyKwoZGWWah8zTDZ3GOLSzk7FvxRSI/view?usp=drivesdk
 
-## Watch Youtube Video
-https://youtu.be/Xs3A_wXafy4
+
+
 
 ## Playstore Link Soon
 
